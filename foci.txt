@@ -1,0 +1,8 @@
+Foci Brigad;10;Kovacs Bela;Kiss Zoltan;#
+FOOTball;12;Hat Izsak;Fa Zoltan;#
+Rugd a labdat;15;Nagy Imre;Vala Ki;#
+Focistak;16;Juhasz Peter;Molnar Janos;#
+Real Abc;23;Nagyker Aron;Kisker Aron;#
+asd;11;asd;asd;#
+asd;11;addsd;11;#
+asd;2;asd;asd;#

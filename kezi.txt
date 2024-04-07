@@ -1,0 +1,9 @@
+Gyori Se;37;Kozsvai Rizstof;20000;#
+Haloba;18;Parry Hotter;32455;#
+Gyoztesek;25;Albus Dumbledore;50000;#
+Griffendel;58;McGonagal;70000;#
+Hajra Se;32;Kiss Adam;123123;#
+Winwin;45;Kakas Karoly;42000;#
+asd;11;asd;2122;#
+Kekek;45;kek edzo;12300;#
+asd;2;en;2147483647;#
